@@ -1178,7 +1178,8 @@
   "8944890162": {
     "name": "INDODAX CUSTOMER SERVICE",
     "history": [
-      "official_cs_indodax29"
+      "official_cs_indodax29",
+      "official_cs_indodax50"
     ]
   },
   "8473942705": {
@@ -3882,5 +3883,9 @@
     "history": [
       "sanz009"
     ]
+  },
+  "8577306668": {
+    "name": "Ardiona",
+    "history": []
   }
 }
