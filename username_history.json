@@ -3560,7 +3560,9 @@
   },
   "7009689649": {
     "name": "ID7",
-    "history": []
+    "history": [
+      "LONTEHJAMBI"
+    ]
   },
   "8409177293": {
     "name": "ZEXS",
@@ -5661,5 +5663,9 @@
     "history": [
       "cekdata_xbot"
     ]
+  },
+  "8418220624": {
+    "name": "Hanzzz",
+    "history": []
   }
 }
