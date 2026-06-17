@@ -10308,5 +10308,11 @@
   "8476009685": {
     "name": "citra",
     "history": []
+  },
+  "8691261299": {
+    "name": "Polisi polsek",
+    "history": [
+      "polisipolsek_bot"
+    ]
   }
 }
