@@ -4454,7 +4454,8 @@
       "semz44",
       "Official_Monzo_Support_Banking11",
       "MonzoBankingAdmin20",
-      "Official_Monzo_Support_Banking22"
+      "Official_Monzo_Support_Banking22",
+      "MonzoBankingAdmin100"
     ]
   },
   "7002733445": {
@@ -12852,5 +12853,9 @@
     "history": [
       "Lorry244"
     ]
+  },
+  "8560343270": {
+    "name": "Oruka",
+    "history": []
   }
 }
