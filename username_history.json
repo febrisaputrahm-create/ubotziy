@@ -11220,7 +11220,9 @@
   },
   "8352565602": {
     "name": "STORE",
-    "history": []
+    "history": [
+      "STORE_BYFIAN"
+    ]
   },
   "8971372733": {
     "name": "BOT LIMIT z1yad",
