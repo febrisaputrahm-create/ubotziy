@@ -2233,9 +2233,10 @@
     ]
   },
   "1737506442": {
-    "name": "@𝗡𝗽𝗺:𝗠𝗶𝗿𝘂𝗹𝗭𝘁𝘆𝘇𝘇/𝗡𝗼𝘁𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿",
+    "name": "} = require(\"@MirulZtyzz/baileys\");",
     "history": [
-      "MirulZtyzz"
+      "MirulZtyzz",
+      "Mirulztyzz"
     ]
   },
   "1738235438": {
@@ -16515,5 +16516,9 @@
     "history": [
       "Official_CoinMarketCap_Service03"
     ]
+  },
+  "6874037459": {
+    "name": "Luzz",
+    "history": []
   }
 }
