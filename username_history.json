@@ -16029,8 +16029,10 @@
     "history": []
   },
   "5947183962": {
-    "name": "Support Monzo Banking Service",
-    "history": []
+    "name": "Khusus promosi",
+    "history": [
+      "MonzoBankingAdmin221"
+    ]
   },
   "8683192934": {
     "name": "Sasuke",
@@ -16257,5 +16259,9 @@
     "history": [
       "sirkaelll"
     ]
+  },
+  "8314451542": {
+    "name": "Lex?",
+    "history": []
   }
 }
