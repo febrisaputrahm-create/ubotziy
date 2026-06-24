@@ -4196,9 +4196,10 @@
     "history": []
   },
   "7978883597": {
-    "name": "kyyNewEra",
+    "name": "Official CoinMarketCap",
     "history": [
-      "zakyynew"
+      "zakyynew",
+      "offcial_CoinMarketCap_tes"
     ]
   },
   "8611243270": {
@@ -18783,5 +18784,11 @@
   "8825642128": {
     "name": "alzzzz",
     "history": []
+  },
+  "8786573206": {
+    "name": "CONTROL APPS",
+    "history": [
+      "autodeploybotzraraa_bot"
+    ]
   }
 }
