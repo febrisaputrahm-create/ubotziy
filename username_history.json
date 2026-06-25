@@ -1197,6 +1197,10 @@
       "MonzoSupportBank999"
     ]
   },
+  "1248673684": {
+    "name": "Rizki",
+    "history": []
+  },
   "1248785751": {
     "name": "𝑺𝒉𝒂𝒘𝒏𝒏 𝑽𝒊𝒐𝒓𝒆𝒕𝒕𝒆",
     "history": [
@@ -20262,7 +20266,9 @@
   },
   "8215975603": {
     "name": "Zann",
-    "history": []
+    "history": [
+      "ZannVoid"
+    ]
   },
   "8587563037": {
     "name": "AZZXPROJECT",
@@ -20414,6 +20420,10 @@
   },
   "8728936047": {
     "name": "XINNYY",
+    "history": []
+  },
+  "8972948256": {
+    "name": "Rayan",
     "history": []
   }
 }
