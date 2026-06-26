@@ -11601,9 +11601,10 @@
     ]
   },
   "8246923222": {
-    "name": "Support Monzo Banking Service",
+    "name": "CoinGeckgo Support Service",
     "history": [
-      "MonzoBankingAdmin01"
+      "MonzoBankingAdmin01",
+      "Official_CoinGecko_Service12"
     ]
   },
   "7127866287": {
@@ -21812,5 +21813,9 @@
     "history": [
       "yucanmdv4_bot"
     ]
+  },
+  "8423102426": {
+    "name": "WILZX X NIKA",
+    "history": []
   }
 }
