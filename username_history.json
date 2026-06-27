@@ -4818,7 +4818,8 @@
     "name": "./𝐗𝐅𝐨𝐥𝐝𝐞𝐫 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝐓𝟓",
     "history": [
       "Jasjusmd",
-      "XBlackFolder"
+      "XBlackFolder",
+      "asep_jepret"
     ]
   },
   "8620946955": {
@@ -22671,5 +22672,13 @@
     "history": [
       "janzymarkett"
     ]
+  },
+  "7988263537": {
+    "name": "PancakeSwap Support Service",
+    "history": []
+  },
+  "8005674638": {
+    "name": "CoinMarketCap Support",
+    "history": []
   }
 }
