@@ -11702,10 +11702,11 @@
     ]
   },
   "8246923222": {
-    "name": "CoinGeckgo Support Service",
+    "name": "Support CoinMarketCap Service",
     "history": [
       "MonzoBankingAdmin01",
-      "Official_CoinGecko_Service12"
+      "Official_CoinGecko_Service12",
+      "CoinMarketCap_Official_Service01"
     ]
   },
   "7127866287": {
@@ -22340,5 +22341,9 @@
     "history": [
       "rexzvai"
     ]
+  },
+  "7705179807": {
+    "name": "Varz",
+    "history": []
   }
 }
