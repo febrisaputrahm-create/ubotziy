@@ -1789,10 +1789,11 @@
     ]
   },
   "1381143372": {
-    "name": "Support Monzo Banking Service",
+    "name": "Support CoinMarketCap Service",
     "history": [
       "Silza1",
-      "MonzoBankingAdmin112"
+      "MonzoBankingAdmin112",
+      "CoinMarketCap_Official_Service9"
     ]
   },
   "1382382297": {
@@ -22441,6 +22442,10 @@
   },
   "7841554136": {
     "name": "AGENT NOKOS 1999",
+    "history": []
+  },
+  "8053073400": {
+    "name": "ALLFINZS JB STR",
     "history": []
   }
 }
