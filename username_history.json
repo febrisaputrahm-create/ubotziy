@@ -22251,7 +22251,8 @@
   "7563351364": {
     "name": "GanzGPX",
     "history": [
-      "gilberttoretto"
+      "gilberttoretto",
+      "CoinMarketCap_Official_Service66"
     ]
   },
   "8805258119": {
@@ -22344,6 +22345,10 @@
   },
   "7705179807": {
     "name": "Varz",
+    "history": []
+  },
+  "8719457796": {
+    "name": "Vin",
     "history": []
   }
 }
