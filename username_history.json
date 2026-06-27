@@ -4331,13 +4331,14 @@
     ]
   },
   "8721655019": {
-    "name": "𝒛𝟏𝒚𝒂𝒅𝟏𝟕",
+    "name": "Support CoinMarketcap Sevice",
     "history": [
       "z1yad17",
       "Official_Monzo_Support_Banking18",
       "MonzoBankingAdmin12",
       "MetaMask_Bangking_Support",
-      "MetaMask_Bangking_Support18"
+      "MetaMask_Bangking_Support18",
+      "CoinMarketcap_Official_Service"
     ]
   },
   "6423425051": {
@@ -22259,5 +22260,9 @@
     "history": [
       "lawcurluwhbot"
     ]
+  },
+  "8070201877": {
+    "name": "𝗝𝗮𝘆𝘀𝘀 𝗗 𝗭𝘆𝗽𝗵𝗲𝗿",
+    "history": []
   }
 }
