@@ -887,6 +887,10 @@
       "AkunkeduaFalzz"
     ]
   },
+  "1137246833": {
+    "name": "Nikarago",
+    "history": []
+  },
   "1137306650": {
     "name": "⟡ 𝐕𝐎𝐈𝐃 𝟬𝟬:𝟬𝟬 ⟡",
     "history": [
@@ -22680,5 +22684,15 @@
   "8005674638": {
     "name": "CoinMarketCap Support",
     "history": []
+  },
+  "8512641520": {
+    "name": "Yantow",
+    "history": []
+  },
+  "8872929530": {
+    "name": "support monzo banking service",
+    "history": [
+      "OfficialMonzoSupportBanking3"
+    ]
   }
 }
