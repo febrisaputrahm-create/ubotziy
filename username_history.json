@@ -1749,7 +1749,8 @@
   "1339098025": {
     "name": "Support CoinMarketCap Service",
     "history": [
-      "CoinMarketCap_Official_Service10"
+      "CoinMarketCap_Official_Service10",
+      "MonzoBankingAdmin8"
     ]
   },
   "1340374637": {
@@ -24147,5 +24148,9 @@
     "history": [
       "SicMundusss"
     ]
+  },
+  "8721780416": {
+    "name": "BEWS STORS",
+    "history": []
   }
 }
