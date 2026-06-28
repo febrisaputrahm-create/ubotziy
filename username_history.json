@@ -11839,9 +11839,10 @@
     ]
   },
   "5182954224": {
-    "name": "Support Monzo Banking Service",
+    "name": "CoinMarketCap Support Service",
     "history": [
-      "MonzoBankingAdmin78"
+      "MonzoBankingAdmin78",
+      "Official_CoinMarketCapService10"
     ]
   },
   "8298593949": {
