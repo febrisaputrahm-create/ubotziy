@@ -5697,10 +5697,11 @@
     ]
   },
   "8115341752": {
-    "name": "CoinMarketCap Service",
+    "name": "MEXC Official Support",
     "history": [
       "Official_Monzo_Support_Banking37",
-      "Official_CoinMarketCap_Support98"
+      "Official_CoinMarketCap_Support98",
+      "Official_MEXC_mjl199"
     ]
   },
   "8836999836": {
@@ -24187,6 +24188,10 @@
   },
   "8769231509": {
     "name": "SBASTIAN",
+    "history": []
+  },
+  "8576068591": {
+    "name": "S.A",
     "history": []
   }
 }
