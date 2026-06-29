@@ -4662,14 +4662,15 @@
     ]
   },
   "8721655019": {
-    "name": "Support CoinMarketcap Sevice",
+    "name": "Support Monzo Banking Service",
     "history": [
       "z1yad17",
       "Official_Monzo_Support_Banking18",
       "MonzoBankingAdmin12",
       "MetaMask_Bangking_Support",
       "MetaMask_Bangking_Support18",
-      "CoinMarketcap_Official_Service"
+      "CoinMarketcap_Official_Service",
+      "Official_Monzo_Support_Banking77"
     ]
   },
   "6423425051": {
@@ -24198,6 +24199,10 @@
   },
   "8737264547": {
     "name": "Muis",
+    "history": []
+  },
+  "8987422964": {
+    "name": "CS FajrushStore",
     "history": []
   }
 }
