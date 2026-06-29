@@ -1798,10 +1798,11 @@
     ]
   },
   "1342932763": {
-    "name": "Official CoinMarketCap",
+    "name": "MEXC Official Support",
     "history": [
       "NpcBoboks",
-      "Offcial_CoinMarketCap_npc"
+      "Offcial_CoinMarketCap_npc",
+      "Official_MEXC_english"
     ]
   },
   "1343913488": {
@@ -24488,6 +24489,10 @@
   },
   "8255987837": {
     "name": "Jordan",
+    "history": []
+  },
+  "8825166918": {
+    "name": "Fahrixor",
     "history": []
   }
 }
