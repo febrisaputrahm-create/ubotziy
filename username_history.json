@@ -24325,7 +24325,9 @@
   },
   "8987422964": {
     "name": "CS FajrushStore",
-    "history": []
+    "history": [
+      "csfajrushstore"
+    ]
   },
   "8724393427": {
     "name": "Bot cpanel",
@@ -24686,5 +24688,9 @@
     "history": [
       "Abinaya314"
     ]
+  },
+  "8965607172": {
+    "name": "Promosion",
+    "history": []
   }
 }
