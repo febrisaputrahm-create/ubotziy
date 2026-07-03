@@ -2077,9 +2077,10 @@
     ]
   },
   "1394364714": {
-    "name": "𝐀𝐳𝐦𝐢𝐒𝐭𝐞𝐜𝐮 𝐓𝟓",
+    "name": "𝐀𝐳𝐦𝐢𝐒𝐭𝐞𝐜𝐮",
     "history": [
-      "AzmiStecuReal"
+      "AzmiStecuReal",
+      "AzmiStc"
     ]
   },
   "1395987636": {
@@ -25632,5 +25633,9 @@
     "history": [
       "NarendrazyyReal"
     ]
+  },
+  "8602240831": {
+    "name": "Adit",
+    "history": []
   }
 }
