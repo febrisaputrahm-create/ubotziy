@@ -101,6 +101,12 @@
       "unobot"
     ]
   },
+  "119606003": {
+    "name": "VK Music Bot",
+    "history": [
+      "vkmusic_bot"
+    ]
+  },
   "128302158": {
     "name": "𝗔𝗟𝗣𝗔𝙏Ϟ𝐑𝟰ᥫ᭡፝֟፝֟",
     "history": [
@@ -5922,10 +5928,11 @@
     "history": []
   },
   "8579663770": {
-    "name": "KEY STR 𝐓𝟓",
+    "name": "Support CoinMarketCap Service",
     "history": [
       "key270811",
-      "keyganteng270811"
+      "keyganteng270811",
+      "CoinMarketCap_Official_Services1"
     ]
   },
   "8115341752": {
