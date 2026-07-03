@@ -18377,9 +18377,10 @@
     ]
   },
   "8666857838": {
-    "name": "CoinMarketCap Support",
+    "name": "Support CoinMarketCap Service",
     "history": [
-      "supporrttCoinMarketCap_id8"
+      "supporrttCoinMarketCap_id8",
+      "CoinMarketCap_Official123"
     ]
   },
   "8752045472": {
