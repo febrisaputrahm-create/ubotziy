@@ -2932,7 +2932,9 @@
   },
   "1644843151": {
     "name": "Support CoinMarketCap Service",
-    "history": []
+    "history": [
+      "CoinMarketCap_Official_Service76"
+    ]
   },
   "1645325209": {
     "name": "𝐗𝟖",
@@ -26068,5 +26070,9 @@
     "history": [
       "xxiv_scriptbot"
     ]
+  },
+  "7719556109": {
+    "name": "PEMAIN SPACEMEN",
+    "history": []
   }
 }
