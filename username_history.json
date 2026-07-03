@@ -25269,5 +25269,11 @@
     "history": [
       "LUPICASS"
     ]
+  },
+  "6394445819": {
+    "name": "Support Monzo Banking",
+    "history": [
+      "monzo_support_banking_service03"
+    ]
   }
 }
