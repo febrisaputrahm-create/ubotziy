@@ -364,6 +364,10 @@
       "MissRose_bot"
     ]
   },
+  "621849555": {
+    "name": "Ical",
+    "history": []
+  },
   "659362894": {
     "name": "off",
     "history": []
@@ -21438,7 +21442,8 @@
     "name": "Support CoinMarketCap Service",
     "history": [
       "xvannn",
-      "CoinMarketCap_Offic1al_Service"
+      "CoinMarketCap_Offic1al_Service",
+      "CoinMarketCap_Official_Service36"
     ]
   },
   "8996128142": {
@@ -28079,6 +28084,10 @@
   },
   "6242772183": {
     "name": "L",
+    "history": []
+  },
+  "8496726839": {
+    "name": "玄天藏",
     "history": []
   }
 }
