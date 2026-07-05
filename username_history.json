@@ -8787,8 +8787,10 @@
     ]
   },
   "8254618621": {
-    "name": "Global.Owner = (.kielzy./) [ REHAT ]",
-    "history": []
+    "name": "Global.Owner = (.kielzy./)",
+    "history": [
+      "kielsangraja"
+    ]
   },
   "8748664636": {
     "name": "Trust Wallet Support",
