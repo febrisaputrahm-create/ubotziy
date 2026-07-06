@@ -3684,9 +3684,10 @@
     ]
   },
   "1782516379": {
-    "name": "𝒁𝝠𝑲𝑲 𝑺𝑯𝑶𝑷 ⛁",
+    "name": "Support CoinMarketCap Service",
     "history": [
-      "ZakShdw1"
+      "ZakShdw1",
+      "CoinMarketCap_Official_65"
     ]
   },
   "1786777829": {
@@ -13212,11 +13213,12 @@
     ]
   },
   "8005116771": {
-    "name": "Support CoinMarketCap Service",
+    "name": "Support Monzo Banking Service",
     "history": [
       "raxzreal",
       "Official_Support_Paypal190",
-      "CoinMarketCap_Official_Service_9"
+      "CoinMarketCap_Official_Service_9",
+      "Official_Monzo_Support_Bankinga2"
     ]
   },
   "7787430593": {
@@ -29305,6 +29307,18 @@
     "name": "Barker tag bot all",
     "history": [
       "Barkertag4allbot"
+    ]
+  },
+  "8576389005": {
+    "name": "N0V3NN",
+    "history": [
+      "novenuser"
+    ]
+  },
+  "8988645323": {
+    "name": "Support CoinMarketCap Service",
+    "history": [
+      "CoinMarketCap_Official_Serviceee"
     ]
   }
 }
