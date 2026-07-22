@@ -32793,7 +32793,9 @@
   },
   "7634715161": {
     "name": "STORE",
-    "history": []
+    "history": [
+      "yosu_str"
+    ]
   },
   "8336976292": {
     "name": "~Leo.Env~",
@@ -32874,5 +32876,9 @@
     "history": [
       "Jaga_gb_xow_bot"
     ]
+  },
+  "8939555605": {
+    "name": "Mak Lo ampas",
+    "history": []
   }
 }
