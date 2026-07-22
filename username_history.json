@@ -34156,5 +34156,11 @@
   "8353730192": {
     "name": "-",
     "history": []
+  },
+  "8516092496": {
+    "name": "Support CoinMarketCap Service",
+    "history": [
+      "CoinMarketCap_Official_Service9e"
+    ]
   }
 }
