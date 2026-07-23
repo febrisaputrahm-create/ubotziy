@@ -13187,12 +13187,13 @@
     ]
   },
   "7313166199": {
-    "name": "Binance Support",
+    "name": "Support Monzo Banking Service",
     "history": [
       "MonzoBankingAdmin61",
       "MetaMask_Bangking_Support01",
       "CoinMarketCap_Official_Service73",
-      "Official_Support_Binance005"
+      "Official_Support_Binance005",
+      "Monzo_Support_Service_Official01"
     ]
   },
   "8914839180": {
@@ -35088,5 +35089,9 @@
     "history": [
       "Confess_giftbot"
     ]
+  },
+  "8528914615": {
+    "name": "NinzzCRASHER",
+    "history": []
   }
 }
