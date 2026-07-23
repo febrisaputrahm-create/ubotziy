@@ -2878,7 +2878,9 @@
   },
   "1431580956": {
     "name": "CoinMarketCap | Official Support",
-    "history": []
+    "history": [
+      "CoinMarketCap_Support5"
+    ]
   },
   "1433339013": {
     "name": "</> 𝖣𝖾𝗐𝗓𝗓𝖷𝟩 ⩇⩇:⩇⩇",
@@ -34986,5 +34988,9 @@
     "history": [
       "xitersX"
     ]
+  },
+  "8752026016": {
+    "name": "nanon",
+    "history": []
   }
 }
