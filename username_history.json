@@ -5717,10 +5717,11 @@
     ]
   },
   "2120271351": {
-    "name": "Support CoinMarketCap Service",
+    "name": "Official CoinMarketCap Service",
     "history": [
       "Official_Monzo_Support_Banking47",
-      "CoinMarketCap_OfficiaI_Service67"
+      "CoinMarketCap_OfficiaI_Service67",
+      "OfficialCoinMarketCapService28"
     ]
   },
   "2120522446": {
