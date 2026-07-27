@@ -8594,7 +8594,7 @@
     ]
   },
   "8717927897": {
-    "name": "Zinet",
+    "name": "ZENN",
     "history": [
       "semz44",
       "Official_Monzo_Support_Banking11",
@@ -8608,7 +8608,8 @@
       "xvid27",
       "samwn23",
       "Laxzy2",
-      "zinetsu2"
+      "zinetsu2",
+      "zenet24"
     ]
   },
   "7002733445": {
@@ -36765,6 +36766,12 @@
     "name": "nadia",
     "history": [
       "espresocute"
+    ]
+  },
+  "8046036792": {
+    "name": "BOT_PT_IKY",
+    "history": [
+      "PT_IKYY"
     ]
   }
 }
