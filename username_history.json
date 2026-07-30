@@ -37576,7 +37576,9 @@
   },
   "7561777263": {
     "name": "RioStr",
-    "history": []
+    "history": [
+      "RioStrX"
+    ]
   },
   "8751374892": {
     "name": "Deployment Onibot",
@@ -37691,5 +37693,9 @@
     "history": [
       "realmadridjE"
     ]
+  },
+  "5876134636": {
+    "name": "𝘙𝘖𝘕𝘐𝘐 エラさとるー",
+    "history": []
   }
 }
