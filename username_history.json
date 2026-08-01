@@ -30039,10 +30039,11 @@
     ]
   },
   "8496303422": {
-    "name": "CoinMarketCap Support Service",
+    "name": "RYUNA",
     "history": [
       "Ryu11q",
-      "Official_CoinMarketCap_Service44"
+      "Official_CoinMarketCap_Service44",
+      "RYUNADEVNEKO"
     ]
   },
   "8938533925": {
@@ -40006,5 +40007,9 @@
     "history": [
       "Autordernoktellbot"
     ]
+  },
+  "8196030395": {
+    "name": "QueenQualty",
+    "history": []
   }
 }
